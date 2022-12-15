@@ -1,0 +1,18 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^20.0.3"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
